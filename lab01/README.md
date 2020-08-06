@@ -1,10 +1,15 @@
 # Projeto Orange / Regras de Associação para Foodmart
 
+> A ferramenta pode ser utilizada para identificar, por exemplo, quantos clientes<br />
+> realizaram a compra de itens específicos em conjunto.<br />
+> No exemplo abaixo, foi realizado um filtro que identifica quantos clientes compraram <br />
+> os itens *vinho, queijo e chocolate* dentre todos os outros itens comprados.
+
 ## Imagem do Projeto
-> Coloque uma imagem da captura de tela com o projeto do Orange.
+![Associação - Vinho, queijo e chocolate](images/tarefa_resultado.png)
 
 ## Arquivo do Projeto
-> Coloque um link para o arquivo em Orange.
+![Associação - Vinho, queijo e chocolate](orange/tarefa-foodmart.ows)
 
 # Projeto Orange / Análise de Dados do Google PlayStore
 
