@@ -3,24 +3,30 @@
 > A ferramenta pode ser utilizada para identificar, por exemplo, quantos clientes<br />
 > realizaram a compra de itens específicos em conjunto.<br />
 > No exemplo abaixo, foi realizado um filtro que identifica quantos clientes compraram <br />
-> os itens *vinho, queijo e chocolate* dentre todos os outros itens comprados.
+> os itens *vinho, queijo e chocolate* dentre todos os outros itens comprados.< br/>
+> É possível verificar no association rules da ferramenta a quantidade pequena de pessoas<br />
+> que realizou a compra dos 3 itens especificados.
 
 ## Imagem do Projeto
-![Associação - Vinho, queijo e chocolate](images/tarefa_resultado.png)
+![Associação - Vinho, queijo e chocolate](images/tarefa_foodmart_resultado.png)
 
 ## Arquivo do Projeto
-![Associação - Vinho, queijo e chocolate](orange/tarefa-foodmart.ows)
+[Associação - Vinho, queijo e chocolate](orange/tarefa-foodmart.ows)
 
 # Projeto Orange / Análise de Dados do Google PlayStore
 
+> Com a análise abaixo, foi possível perceber uma correlação entre preço e avaliações<br />
+> existentes dentro do dataset. É possível identificar que, na maioria dos casos, as aplicações<br />
+> gratuitas não possuem muitas avaliações.<br />
+
 ## Imagem do Projeto
-> Coloque uma imagem da captura de tela com o projeto do Orange.
+![Associação - Preço, categoria e avaliações](images/tarefa_google_play.png)
 
 ## Arquivo do Projeto
-> Coloque um link para o arquivo em Orange.
+[Associação - Preço, categoria e avaliações](orange/tarefa_googleplay.ows)
 
 ## Gráfico(s) de Análise
-> Apresente a seguir o(s) gráfico(s) de análise produzidos (se houver) com legendas.
+![Associação - Preço, categoria e avaliações](images/tarefa_google_play_graph.png)
 
 # Projeto de Composição de Componentes para Recomendação
 
