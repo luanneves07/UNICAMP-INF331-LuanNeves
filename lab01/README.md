@@ -8,7 +8,7 @@
 > que realizou a compra dos 3 itens especificados.
 
 ## Imagem do Projeto
-![Associação - Vinho, queijo e chocolate](images/tarefa_foodmart_resultado.png)
+![Associação - Vinho, queijo e chocolate](images/t1_foodmart_resultado.png)
 
 ## Arquivo do Projeto
 [Associação - Vinho, queijo e chocolate](orange/tarefa-foodmart.ows)
@@ -20,13 +20,13 @@
 > gratuitas não possuem muitas avaliações.<br />
 
 ## Imagem do Projeto
-![Associação - Preço, categoria e avaliações](images/tarefa_google_play.png)
+![Associação - Preço, categoria e avaliações](images/t2_google_play.png)
 
 ## Arquivo do Projeto
 [Associação - Preço, categoria e avaliações](orange/tarefa_googleplay.ows)
 
 ## Gráfico(s) de Análise
-![Associação - Preço, categoria e avaliações](images/tarefa_google_play_graph.png)
+![Associação - Preço, categoria e avaliações](images/t2_google_play_graph.png)
 
 # Projeto de Composição de Componentes para Recomendação
 - **ConsoleComponent** > 
