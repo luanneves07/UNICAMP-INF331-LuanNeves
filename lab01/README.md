@@ -36,13 +36,12 @@ e gera uma interface do tipo IProductProducer que é utilizada dentro do sistema
 Este componente é responsável por receber o produto selecionado e realizar as regras de associação<br />
 necessárias para escolher produtos similares. Gera um ISimilarProductTable com a lista de produtos<br />
 similares<br />
-- **DataSetComponent** > 
-Este componente por sua vez, recebe a interface ISimilarProductTable e age como uma base de dados<br />
-contendo todos os produtos semelhantes utilizando uma interface padrão chamada ISimilarProductTable.<br />
 - **RankedProductComponent** >
 Este componente recebe a interface de produtos similares contendo a lista completa e realiza <br />
 o rankeamento dos produtos. Sua saída é a mesma interface (ISimilarProductTable), entretanto com <br />
 limitação do tamanho da lista sendo configurada pelo parâmetro outputFilter.<br />
+- **DataSetComponent** > 
+Este componente é o dataset gerado para entregar o resultado requerido.
 
 ![Recomendação de produtos](images/t3_recomendacao.png)
 
