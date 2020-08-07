@@ -29,8 +29,18 @@
 ![Associação - Preço, categoria e avaliações](images/tarefa_google_play_graph.png)
 
 # Projeto de Composição de Componentes para Recomendação
+- **ConsoleComponent** > 
+Este componente recebe o input do usuário com o nome do produto que ele deseja comprar<br />
+e gera uma interface do tipo IProduct que é utilizada dentro do sistema.<br />
+- **DataSetComponent** > 
+Este componente por sua vez, recebe a interface IProduct e gera uma lista de produtos similares<br />
+utilizando uma interface padrão chamada ISimilarProductTable.<br />
+- **RankedProductComponent** >
+Este componente recebe a interface de produtos similares contendo a lista completa e realiza <br />
+o rankeamento dos produtos. Sua saída é a mesma interface (ISimilarProductTable), entretanto com <br />
+limitação do tamanho da lista sendo configurada pelo parâmetro outputFilter.<br />
 
-> Imagem (`PNG`) do diagrama de componentes (veja exemplos abaixo).
+![Recomendação de produtos](images/t3_recomendacao.png)
 
 # Projeto de Composição de Componentes para Pedido
 
