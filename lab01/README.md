@@ -49,10 +49,9 @@ Este componente é o dataset gerado para entregar o resultado requerido.
 
 ## Diagrama de Componentes
 
-> Imagem (`PNG`) do diagrama de componentes do pedido de um produto (veja exemplos abaixo).
-
+![sistema de pedido](images/t4_pedido_component.png)
 ## Diagrama de Interfaces
 
-> Imagem (`PNG`) do detalhamento de interfaces referentes aos componentes.
+![sistema de pedido](images/t4_pedido_diagram.png)
 
 <hr>
