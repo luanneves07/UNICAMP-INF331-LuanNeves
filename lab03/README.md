@@ -9,6 +9,7 @@
 - O componente **Provider** identifica que o cliente quer realizar a compra de um produto e envia uma mensagem de oferta no tópico **IOffer**;
 - O tópico **IOffer** é assinado pelo componente de rankeamento **RankedProducts** que possui uma propriedade de configuração de seu estado para identificar quantos produtos serão requisitados na saída. <br/>Após realizar o cálculo, o mesmo envia uma mensagem no tópico **IRankedOffer** que é assinado pelo componente **Screen** ;
 - O componente **Screen** é utilizado para armazenar as ofertas rankeadas.
+- O componente **ProductView** disponibiliza uma interface para que seja possível visualizar os produtos rankeados
 # Tarefa 3
 > Nenhum produto selecionado<br />
 ![Tela 01](images/tarefa03_tela01.png)<br />
