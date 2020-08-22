@@ -11,15 +11,20 @@
 - O componente **Screen** é utilizado para armazenar as ofertas rankeadas.
 - O componente **ProductView** disponibiliza uma interface para que seja possível visualizar os produtos rankeados
 # Tarefa 3
-> Nenhum produto selecionado<br />
-![Tela 01](images/tela01.jpg)<br />
-> primeiro produto selecionado<br />
-![Tela 02](images/tela02.jpg)<br />
-> segundo produto selecionado<br />
-![Tela 03](images/tela03.jpg)<br />
-> compra de um dos produtos efetiva<br />
-![Tela 04](images/tela04.jpg)<br />
-> diagrama de blocos do aplicativo<br />
-![Tela 05](images/diagrama.png)<br />
-### Aplicação
+## Nenhum produto selecionado
+<img src="images/tela01.jpg" width="400">
+
+## primeiro produto selecionado
+<img src="images/tela02.jpg" width="400">
+
+## segundo produto selecionado
+<img src="images/tela03.jpg" width="400">
+
+## compra de um dos produtos efetiva
+<img src="images/tela04.jpg" width="400">
+
+## Diagrama de blocos do aplicativo
+![diagrama](images/diagrama.png)
+
+## Aplicação
 [DinoUnicamp](app/DinoUnicamp.aia)
