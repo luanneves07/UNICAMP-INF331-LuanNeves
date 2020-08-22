@@ -12,12 +12,14 @@
 - O componente **ProductView** disponibiliza uma interface para que seja possível visualizar os produtos rankeados
 # Tarefa 3
 > Nenhum produto selecionado<br />
-![Tela 01](images/tarefa03_tela01.png)<br />
+![Tela 01](images/tela01.jpg)<br />
 > primeiro produto selecionado<br />
-![Tela 02](images/tarefa03_tela02.png)<br />
+![Tela 02](images/tela02.jpg)<br />
 > segundo produto selecionado<br />
-![Tela 03](images/tarefa03_tela03.png)<br />
+![Tela 03](images/tela03.jpg)<br />
 > compra de um dos produtos efetiva<br />
-![Tela 04](images/tarefa03_tela04.png)<br />
+![Tela 04](images/tela04.jpg)<br />
 > diagrama de blocos do aplicativo<br />
-![Tela 05](images/tarefa03_tela05.png)<br />
+![Tela 05](images/diagrama.png)<br />
+### Aplicação
+[DinoUnicamp](app/DinoUnicamp.aia)
