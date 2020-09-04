@@ -58,24 +58,17 @@ class Barra extends React.Component {
     };
   }
   
-  toggle() {
-    const currentState = this.state.animation;
-    this.setState({ animation: !currentState });
-  }
-  
   render() {
     let resultado = "";
     for (let b = 1; b <= this.props.tamanho; b++)
       resultado += "=";
-    return <> 
-                <div>
-                <p className={this.state.animation && 'animated  rounded'}>{resultado}</p>
-                <button className={this.state.animation && 'animated'}
-                  onClick={ () => this.setState({animation: !this.state.animation}) }>
-                  {this.state.animation ? "Desanimar" : "Animar !"}
-                  </button>
-                </div>
-      </>;
+    return <>
+              <p className={this.state.animation && 'animated  rounded'}>{resultado}</p>
+              <button className={this.state.animation && 'animated'}
+                onClick={ () => this.setState({animation: !this.state.animation}) }>
+                {this.state.animation ? "Desanimar" : "Animar !"}
+              </button>
+          </>;
   }
 }
 
@@ -87,6 +80,4 @@ const elemento = <div>
 
 ReactDOM.render(elemento, 
         document.getElementById("root"));
-
-
 ~~~
